@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+.month_name{
+    height: 20px;
+    width: 200px;
+    margin: 0 10px;
+}
+
+.circle_validation{
+    height: 25px;
+    width: 25px;
+    border: solid 1px grey;
+    border-radius: 50%;
+    background-color: rgba(128, 128, 128, 0.507);
+    margin-left: 10px;
+}
